@@ -1,0 +1,11 @@
+ms/java/spring/soap/Application.class
+ms/java/spring/soap/models/GetCountryRequest.class
+ms/java/spring/soap/models/GetCountryResponse.class
+ms/java/spring/soap/apis/CountryEndPoint.class
+ms/java/spring/soap/config/WebServiceConfig.class
+ms/java/spring/soap/repository/CountryRespository.class
+ms/java/spring/soap/models/ObjectFactory.class
+ms/java/spring/soap/apis/Controller.class
+ms/java/spring/soap/models/Currency.class
+ms/java/spring/soap/models/Country.class
+ms/java/spring/soap/models/package-info.class

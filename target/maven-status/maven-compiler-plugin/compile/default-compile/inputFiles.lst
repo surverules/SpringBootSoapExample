@@ -1,0 +1,8 @@
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/ms/java/spring/soap/Application.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/ObjectFactory.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/GetCountryRequest.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/GetCountryResponse.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/Currency.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/Country.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/com/baeldung/springsoap/gen/package-info.java
+/home/parthshon/IdeaProjects/SpringBootSoapExample/src/main/java/ms/java/spring/soap/apis/Controller.java
