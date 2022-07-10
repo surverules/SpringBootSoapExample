@@ -15,5 +15,8 @@ Learning
     - NameSpaces is defined in the Soap request. I have changed at end to /ha
     - localpart - its mapped to method name of Soap request Body
 
+WSDL - localhost:8090/ws/countries.wsdl   - refer config bean name 
+
+
 Note: We have both SOAP and REST end point running part of this project
 

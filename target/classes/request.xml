@@ -1,9 +1,10 @@
+
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
                   xmlns:gs="http://www.baeldung.com/springsoap/ha">
     <soapenv:Header/>
     <soapenv:Body>
-        <gs:getCountryRequest>
+        <gs:getCountryRequest1>
             <gs:name>Spain</gs:name>
-        </gs:getCountryRequest>
+        </gs:getCountryRequest1>
     </soapenv:Body>
 </soapenv:Envelope>
